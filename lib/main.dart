@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+  // post screen.
 
 class PostScreen extends StatefulWidget {
   const PostScreen({super.key});
